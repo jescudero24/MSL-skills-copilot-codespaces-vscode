@@ -1,0 +1,21 @@
+#board {
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
+}
+
+#board td {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 35px;
+}
+
+#reset {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 20px;
+}
